@@ -9,3 +9,4 @@ List of awesome resources and papers on LLM, created to keep track of interestin
 - [A Survey of Large Language Models, 2023](https://arxiv.org/abs/2303.18223)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+- [Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://arxiv.org/pdf/2210.03347.pdf)
