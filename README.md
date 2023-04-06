@@ -1,4 +1,4 @@
-# awesome-llm-resources
+# Awesome-LLM-Resources
 List of awesome resources and papers on LLM, created to keep track of interesting pieces across the web. Heavily influenced by, and has overlap with:
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes
